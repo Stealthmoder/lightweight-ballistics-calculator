@@ -35,7 +35,7 @@ This repository contains a real-time interactive trajectory calculator with:
 - Weather-driven environmental updates
 - Device-based directional input (where supported)
 
-![Lightweight Ballistics Calculator Demo](./assets/demogifski.gif)
+![Lightweight Ballistics Calculator Demo](./assets/demo.mp4)
 
 
 ## ✨ Features
@@ -55,7 +55,7 @@ This repository contains a real-time interactive trajectory calculator with:
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Stealthmoder/lightweight-ballistics-calculator.git
 cd lightweight-ballistics-calculator
 npm install
 ```
