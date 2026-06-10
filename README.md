@@ -35,8 +35,7 @@ This repository contains a real-time interactive trajectory calculator with:
 - Weather-driven environmental updates
 - Device-based directional input (where supported)
 
-![Lightweight Ballistics Calculator Demo](./assets/demo.mp4)
-
+<video src="assets/demo.mp4" controls></video>
 
 ## ✨ Features
 
