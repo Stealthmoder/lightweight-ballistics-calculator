@@ -27,7 +27,7 @@ It combines ballistic modeling, live weather data, and compass-based shooter dir
 ![npm](https://img.shields.io/badge/npm-managed-CB3837?logo=npm)
 
 
-## 🎥 Live Demo
+## 🎥 Demo
 
 This repository contains a real-time interactive trajectory calculator with:
 - Trajectory drop and wind drift estimation
@@ -35,7 +35,7 @@ This repository contains a real-time interactive trajectory calculator with:
 - Weather-driven environmental updates
 - Device-based directional input (where supported)
 
-<video src="assets/demo.mp4" controls></video>
+[Click to watch](assets/demo.mp4)
 
 ## ✨ Features
 
